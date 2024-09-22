@@ -1,0 +1,16 @@
+html {
+    background-color: #3d9ea8;
+  }
+
+ h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #2a9cad;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+img {
+    display: block;
+    margin:  auto;
+  }
+  
